@@ -1,4 +1,4 @@
-var HOST = process.env.IP || 0.0.0.0";
+var HOST = process.env.IP || "0.0.0.0";
 var PORT = process.env.C9_PORT || 8080;
 
 // when the daemon started
